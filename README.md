@@ -2,6 +2,4 @@
 
 Just making a few changes
 
-## New example branch created
-
-There is a update from local repository
+This is to be rebase (Before rebase)

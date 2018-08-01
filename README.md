@@ -2,4 +2,4 @@
 
 Just making a few changes
 
-This is to be rebase (Before rebase)
+this change is made on master for rebase demo (made first)
